@@ -43,6 +43,9 @@ Simulated biological pupil dilation and contraction based on light input using P
 ### 🛒 [Online Grocery Store](https://github.com/israkhossain4566/Online-Grocery-Store.git)  
 E-commerce system using PHP, MySQL, HTML, CSS, and JavaScript. Supported item browsing, cart management, and checkout.
 
+### 📰 [Fake News Detection (ML Comparison)](https://github.com/israkhossain4566/Fake-News-Detection-Using-Machine-Learning.git)
+Compared Random Forest, SVM, and Naive Bayes on a real-world fake vs. real news dataset. Included preprocessing, evaluation, confusion matrices, and performance visualizations.
+
 ---
 
 ## 🏆 Honors & Awards
