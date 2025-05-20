@@ -8,7 +8,7 @@
 
 ## 🧠 What I Focus On
 
-- 🔍 Applied Machine Learning on tabular, textual, and image data  
+- 🔍 Applied Machine Learning on tabular, and textual data  
 - 📊 Predictive modeling, classification, and explainable AI (SHAP, LIME)  
 - 🧾 Academic Research: Thesis on modeling young voter enthusiasm using ML & NLP  
 - 📚 1.5 years teaching IGCSE/IAL Mathematics
