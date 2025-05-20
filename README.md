@@ -46,6 +46,8 @@ E-commerce system using PHP, MySQL, HTML, CSS, and JavaScript. Supported item br
 ### 📰 [Fake News Detection (ML Comparison)](https://github.com/israkhossain4566/Fake-News-Detection-Using-Machine-Learning.git)
 Compared Random Forest, SVM, and Naive Bayes on a real-world fake vs. real news dataset. Included preprocessing, evaluation, confusion matrices, and performance visualizations.
 
+### 🧠 [Sarcasm Detection using BERT and XAI (LIME)](https://github.com/israkhossain4566/Sarcasm-Detection-Using-BERT-and-XAI.git)
+This project demonstrates sarcasm detection in news headlines using a fine-tuned **BERT** model. To enhance interpretability, LIME is applied to understand model decisions - making this an Explainable AI (XAI) application.
 ---
 
 ## 🏆 Honors & Awards
