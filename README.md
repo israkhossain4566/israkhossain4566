@@ -48,6 +48,7 @@ Compared Random Forest, SVM, and Naive Bayes on a real-world fake vs. real news 
 
 ### 🧠 [Sarcasm Detection using BERT and XAI (LIME)](https://github.com/israkhossain4566/Sarcasm-Detection-Using-BERT-and-XAI.git)
 This project demonstrates sarcasm detection in news headlines using a fine-tuned **BERT** model. To enhance interpretability, LIME is applied to understand model decisions - making this an Explainable AI (XAI) application.
+
 ---
 
 ## 🏆 Honors & Awards
