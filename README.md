@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Md Israk Hossain
+<h1 align="center">👋 Hi, I'm Md Israk Hossain</h1>
 
-🎓 Computer Science & Engineering graduate from BRAC University  
-🔬 Independent Research Assistant in Machine Learning & AI  
-📍 Based in Dhaka, Bangladesh
+🎓 **Computer Science & Engineering graduate** from BRAC University  
+🔬 **Independent Research Assistant** in Machine Learning & AI  
+📍 **Based in Dhaka, Bangladesh**
 
 ---
 
-## 🧠 What I Focus On
+<h2 align="center">🧠 What I Focus On</h2>
 
 - 🔍 Applied Machine Learning on tabular, and textual data  
 - 📊 Predictive modeling, classification, and explainable AI (SHAP, LIME)  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
 <div align="center">
 <table>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🗂️ Featured Projects
+<h2 align="center">🗂️ Featured Projects</h2>
 
 ### 🔬 [Young Voter Enthusiasm Prediction](https://github.com/israkhossain4566/Exploring-The-Non-Political-Factors-Behind-Young-Voter-Enthusiasm-A-Machine-Learning-Approach.git)  
 Used XGBoost, SVM, and BERT to model youth voting behavior. Included explainable AI techniques to interpret results.
@@ -76,7 +76,7 @@ This project demonstrates sarcasm detection in news headlines using a fine-tuned
 
 ---
 
-## 🏆 Honors & Awards
+<h2 align="center">🏆 Honors & Awards</h2>
 
 - 🏅 Edexcel High Achievers Award (2019)  
 - 🏆 The Daily Star Award (2019)  
@@ -85,19 +85,20 @@ This project demonstrates sarcasm detection in news headlines using a fine-tuned
 
 ---
 
-## 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-israk-hossain" target="_blank">
+  <a href="https://www.linkedin.com/in/md-israk-hossain">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/israkhossain4566" target="_blank">
+  <a href="https://github.com/israkhossain4566">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:israkhossain4566@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 ---
 
