@@ -76,6 +76,14 @@ This project demonstrates sarcasm detection in news headlines using a fine-tuned
 
 ---
 
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=israkhossain4566&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
 <h2 align="center">🏆 Honors & Awards</h2>
 
 - 🏅 Edexcel High Achievers Award (2019)  
