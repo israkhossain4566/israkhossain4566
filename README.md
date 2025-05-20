@@ -17,9 +17,34 @@
 
 ## 🛠️ Tools & Technologies
 
-`Python` · `TensorFlow` · `Scikit-learn` · `Pandas` · `NumPy` · `Matplotlib`  
-`BERT` · `XGBoost` · `Arduino` · `OpenGL` · `C++` · `LaTeX`  
-`Angular` · `PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `Git/GitHub`
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow</td>
+    <td align="center"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/><br>Scikit-learn</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br>Matplotlib</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/><br>LaTeX</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br>Angular</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>PHP</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5"><i>Also worked with: BERT · XGBoost · Arduino · OpenGL</i></td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -62,10 +87,22 @@ This project demonstrates sarcasm detection in news headlines using a fine-tuned
 
 ## 📫 Connect With Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/md-israk-hossain)  
-- 💻 [GitHub](https://github.com/israkhossain4566)  
-- ✉️ israkhossain4566@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-israk-hossain" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/israkhossain4566" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:israkhossain4566@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-> “The purpose of learning is to bring us closer to the truth.” — Ibn Sina
+<p align="center">
+ “The purpose of learning is to bring us closer to the truth.” ~ Ibn Sina
+</p>
+
+
