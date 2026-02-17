@@ -22,7 +22,7 @@ I have worked with tabular and textual data, implementing both classical machine
 ## Technical Skills
 
 **Languages:**  
-Python, SQL, C++
+Python, SQL, C, Java
 
 **Machine Learning & Data:**  
 Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost, TensorFlow, BERT
