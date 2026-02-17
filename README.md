@@ -1,117 +1,66 @@
-<h1 align="center">👋 Hi, I'm Md Israk Hossain</h1>
+# Md Israk Hossain
+Machine Learning & Data Science | Python • SQL • NLP • Predictive Modeling • XAI
 
-🎓 **Computer Science & Engineering graduate** from BRAC University  
-🔬 **Independent Research Assistant** in Machine Learning & AI  
-📍 **Based in Dhaka, Bangladesh**
-
----
-
-<h2 align="center">🧠 What I Focus On</h2>
-
-- 🔍 Applied Machine Learning on tabular, and textual data  
-- 📊 Predictive modeling, classification, and explainable AI (SHAP, LIME)  
-- 🧾 Academic Research: Thesis on modeling young voter enthusiasm using ML & NLP  
-- 📚 1.5 years teaching IGCSE/IAL Mathematics
+Master of Applied Computing (MAC) – University of Windsor  
+B.Sc. in Computer Science & Engineering – BRAC University
 
 ---
 
-<h2 align="center">🛠️ Tools & Technologies</h2>
+## About Me
+I am a graduate student in Applied Computing with hands-on experience applying machine learning to real datasets. My work focuses on building end-to-end data pipelines, training predictive models, and interpreting model behavior using explainable AI techniques.
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow</td>
-    <td align="center"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/><br>Scikit-learn</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br>Matplotlib</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/><br>LaTeX</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br>Angular</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>PHP</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub</td>
-  </tr>
-  <tr>
-    <td align="center" colspan="5"><i>Also worked with: BERT · XGBoost · Arduino · OpenGL</i></td>
-  </tr>
-</table>
-</div>
+I have worked with tabular and textual data, implementing both classical machine learning algorithms and transformer-based models. My projects include classification, regression, and natural language processing tasks with emphasis on reproducibility and evaluation.
+
+**Areas of interest**
+- Data Analysis and Predictive Modeling
+- Natural Language Processing (NLP)
+- Explainable AI (SHAP, LIME)
+- Applied Machine Learning Systems
 
 ---
 
-<h2 align="center">🗂️ Featured Projects</h2>
+## Technical Skills
 
-### 🔬 [Young Voter Enthusiasm Prediction](https://github.com/israkhossain4566/Exploring-The-Non-Political-Factors-Behind-Young-Voter-Enthusiasm-A-Machine-Learning-Approach.git)  
-Used XGBoost, SVM, and BERT to model youth voting behavior. Included explainable AI techniques to interpret results.
+**Languages:**  
+Python, SQL, C++
 
-### 🏠 [House Price Prediction with XAI](https://github.com/israkhossain4566/House-Price-Prediction-with-XAI.git)  
-Developed regression models with SHAP to analyze feature importance in real estate pricing.
+**Machine Learning & Data:**  
+Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost, TensorFlow, BERT
 
-### 🚦 [Automatic Toll Gate System](https://github.com/israkhossain4566/Automatic-Toll-Gate-System.git)  
-IoT-based Arduino system to automate vehicle entry and toll collection.
+**Concepts:**  
+Data preprocessing, feature engineering, model evaluation, cross-validation, classification, regression, NLP pipelines, explainable AI
 
-### 🎶 [Online Music Library](https://github.com/israkhossain4566/Music-Library-Project.git)  
-Built a frontend music browsing interface using the Angular framework.
-
-### 👁️ [Pupil Dilation Simulation](https://github.com/israkhossain4566/Pupil-light-intensity-visualization.git)  
-Simulated biological pupil dilation and contraction based on light input using Python and OpenGL.
-
-### 🛒 [Online Grocery Store](https://github.com/israkhossain4566/Online-Grocery-Store.git)  
-E-commerce system using PHP, MySQL, HTML, CSS, and JavaScript. Supported item browsing, cart management, and checkout.
-
-### 📰 [Fake News Detection (ML Comparison)](https://github.com/israkhossain4566/Fake-News-Detection-Using-Machine-Learning.git)
-Compared Random Forest, SVM, and Naive Bayes on a real-world fake vs. real news dataset. Included preprocessing, evaluation, confusion matrices, and performance visualizations.
-
-### 🧠 [Sarcasm Detection using BERT and XAI (LIME)](https://github.com/israkhossain4566/Sarcasm-Detection-Using-BERT-and-XAI.git)
-This project demonstrates sarcasm detection in news headlines using a fine-tuned **BERT** model. To enhance interpretability, LIME is applied to understand model decisions - making this an Explainable AI (XAI) application.
+**Tools:**  
+Git, GitHub, LaTeX, MySQL
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israkhossain4566&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-<h2 align="center">🏆 Honors & Awards</h2>
-
-- 🏅 Edexcel High Achievers Award (2019)  
-- 🏆 The Daily Star Award (2019)  
-- 🎓 BRAC University Merit Scholarship  
-- 💼 Executive, HR & Admin — BUEDF
+### Young Voter Enthusiasm Prediction (Research)
+Applied SVM, Random Forest, XGBoost and BERT models to analyze factors influencing youth voting behavior. Implemented text preprocessing, TF-IDF features, and model evaluation with interpretability analysis.  
+Repository: https://github.com/israkhossain4566/Exploring-The-Non-Political-Factors-Behind-Young-Voter-Enthusiasm-A-Machine-Learning-Approach
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-israk-hossain">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/israkhossain4566">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:israkhossain4566@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
+### Sarcasm Detection using BERT and XAI
+Fine-tuned a BERT model for sarcasm classification in news headlines. Applied LIME to interpret predictions and explain model decisions.  
+Repository: https://github.com/israkhossain4566/Sarcasm-Detection-Using-BERT-and-XAI
 
 ---
 
-<p align="center">
- “The purpose of learning is to bring us closer to the truth.” ~ Ibn Sina
-</p>
+### House Price Prediction with Explainable AI
+Built regression models to predict housing prices and used SHAP to analyze feature importance and model behavior.  
+Repository: https://github.com/israkhossain4566/House-Price-Prediction-with-XAI
 
+---
 
+### Fake News Detection (Machine Learning Comparison)
+Compared Naive Bayes, SVM, and Random Forest on a real-world dataset. Implemented preprocessing, vectorization, evaluation metrics, and visualization of performance.  
+Repository: https://github.com/israkhossain4566/Fake-News-Detection-Using-Machine-Learning
+
+---
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/md-israk-hossain  
+Email: israkhossain4566@gmail.com
